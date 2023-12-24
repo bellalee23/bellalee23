@@ -2,8 +2,6 @@
 
 Columbus Academy '26
 
-Currently dabbling in Java and Ruby
-
 <!--
 **bellalee23/bellalee23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
